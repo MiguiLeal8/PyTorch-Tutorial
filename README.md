@@ -11,14 +11,14 @@ print(torch.__version__)
 2.4.1+cpu
 
 ## Contents
-0. [Quickstart](#learnthebasics/quickstart)
-1. [Tensors](#learnthebasics/quickstart)
-2. [Datasets & Dataloaders](#learnthebasics/datasets&dataloaders)
-3. [Transforms](#learnthebasics/transforms)
-4. [Build Model](#learnthebasics/buildmodel)
-5. [Automatic Differentiation](#learnthebasics/automaticdifferentiation)
-6. [Optimization Loop](#learnthebasics/optimizationloop)
-7. [Save, Load & Use Model](#learnthebasics/saveload&usemodel)
+0. [Quickstart](#learnthebasics/0.quickstart)
+1. [Tensors](#learnthebasics/1.tensors)
+2. [Datasets & Dataloaders](#learnthebasics/2.datasets&dataloaders)
+3. [Transforms](#learnthebasics/3.transforms)
+4. [Build Model](#learnthebasics/4.buildmodel)
+5. [Automatic Differentiation](#learnthebasics/5.automaticdifferentiation)
+6. [Optimization Loop](#learnthebasics/6.optimizationloop)
+7. [Save, Load & Use Model](#learnthebasics/7.saveload&usemodel)
 
 ## Installation
 ### Clone the repository
