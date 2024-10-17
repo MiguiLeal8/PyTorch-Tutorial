@@ -11,7 +11,7 @@ print(torch.__version__)
 2.4.1+cpu
 
 ## Contents
-0. [Quickstart](#learnthebasics/0.quickstart)
+0. [Quickstart](#LearnTheBasics/0.Quickstart)
 1. [Tensors](#learnthebasics/1.tensors)
 2. [Datasets & Dataloaders](#learnthebasics/2.datasets&dataloaders)
 3. [Transforms](#learnthebasics/3.transforms)
